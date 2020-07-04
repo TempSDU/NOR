@@ -3,7 +3,7 @@ tensorflow==1.3.0
 keras==2.1.2
 numpy==1.13.3
 pandas==0.19.1
-nltk==3.2.1
+nltk==3.4.5
 pyrouge==0.1.3
 
 trec_eval
